@@ -51,11 +51,10 @@ Ensure the Virtual Environment is Active: Verify you see (venv) at the start of 
 Bash
 
 .\venv\Scripts\activate
-Run the Streamlit Application: Execute the main application file (assuming it's named main.py or app.py):
+
+Run the Streamlit Application: Execute the main application file:
 
 Bash
-
-
 # streamlit run app.py
 Access the App: The command will automatically open a tab in your web browser.
 
@@ -66,4 +65,5 @@ Enter the desired Stock Ticker into the input field.
 Click the "Generate Analysis" button.
 
 The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
 
