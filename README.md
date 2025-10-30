@@ -27,17 +27,17 @@ Create a Virtual Environment (venv): It's best practice to create an isolated en
 
 Bash
 
-python -m venv venv
+```python -m venv venv```
 Activate the Environment: Activate the environment. Your terminal prompt should show (venv) once successful:
 
 Bash
 
-.\venv\Scripts\activate
+```.\venv\Scripts\activate```
 Install Dependencies: Install all required packages (CrewAI, Streamlit, etc.) from the requirements.txt file:
 
 Bash
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 Configure Environment Variables: Create a file named .env in the root directory and add your API key. This file is ignored by Git for security:
 
 # Example for OpenAI
@@ -50,12 +50,12 @@ Ensure the Virtual Environment is Active: Verify you see (venv) at the start of 
 
 Bash
 
-.\venv\Scripts\activate
+```.\venv\Scripts\activate```
 
 Run the Streamlit Application: Execute the main application file:
 
 Bash
-# streamlit run app.py
+```streamlit run app.py```
 Access the App: The command will automatically open a tab in your web browser.
 
 Generate Report:
@@ -65,5 +65,6 @@ Enter the desired Stock Ticker into the input field.
 Click the "Generate Analysis" button.
 
 The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
 
 
