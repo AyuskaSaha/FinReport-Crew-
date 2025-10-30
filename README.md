@@ -57,7 +57,7 @@ Bash
 
 
 # streamlit run app.py
-Access the App: The command will automatically open a tab in your web browser (usually at http://localhost:8501).
+Access the App: The command will automatically open a tab in your web browser.
 
 Generate Report:
 
@@ -66,3 +66,4 @@ Enter the desired Stock Ticker into the input field.
 Click the "Generate Analysis" button.
 
 The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
