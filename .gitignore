@@ -1,0 +1,17 @@
+# .gitignore content
+
+# Environment files (already added this)
+.env
+.env.*
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Other Python artifacts (good practice)
+__pycache__/
+*.pyc
+
+# Streamlit local cache
+.streamlit/
