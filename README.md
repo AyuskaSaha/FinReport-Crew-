@@ -47,7 +47,7 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 
 3)Run the Streamlit Application: Execute the main application file:
 
-```streamlit run app.py```
+```streamlit run main.py```
 
 
 4)Access the App: The command will automatically open a tab in your web browser.
@@ -59,6 +59,7 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 -->Click the "Generate Analysis" button.
 
 -->The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
 
 
 
