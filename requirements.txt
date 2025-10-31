@@ -1,6 +1,7 @@
-streamlit
-crewai
-langchain
-python-dotenv
-pandas
-openai
+streamlit==1.38.0
+crewai==0.28.8
+langchain==0.3.3
+python-dotenv==1.0.1
+pandas==2.2.3
+openai==1.45.0
+
