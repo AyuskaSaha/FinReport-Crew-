@@ -1,7 +1,6 @@
 # Financial Insight Generator
 ✨ Overview
 This project implements a lightweight yet powerful financial analysis application using a CrewAI multi-agent system. It leverages two specialized AI agents to handle the end-to-end process of financial report generation:
-
 1)The Data Analyzer Agent
 2)The Report Generator Agent
 
@@ -59,6 +58,7 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 -->Click the "Generate Analysis" button.
 
 -->The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
 
 
 
