@@ -12,7 +12,9 @@ The application is hosted via a Streamlit interface, providing a user-friendly w
 This guide will get your multi-agent system running locally using a Python virtual environment.
 
 Prerequisites: 
+
 1)Python 3.9+ is required.
+
 2)An API Key for the Large Language Model (LLM) you are using (OpenAI).
 
 # Step-by-Step Guide
@@ -61,6 +63,7 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 -->Click the "Generate Analysis" button.
 
 -->The CrewAI agents will coordinate, fetch data, analyze it, and the final comprehensive report will be displayed on the screen.
+
 
 
 
