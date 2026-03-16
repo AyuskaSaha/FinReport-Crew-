@@ -10,6 +10,7 @@ This project implements a lightweight yet powerful financial analysis applicatio
 
 The application is hosted via a Streamlit interface, providing a user-friendly way to input a stock ticker and instantly receive a comprehensive financial analysis report.
 
+
 # 🛠️ Installation and Setup
 This guide will get your multi-agent system running locally using a Python virtual environment.
 
