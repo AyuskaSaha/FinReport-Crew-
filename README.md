@@ -1,6 +1,5 @@
 # Financial Insight Generator
 
-
 ✨ Overview
 This project implements a lightweight yet powerful financial analysis application using a CrewAI multi-agent system. It leverages two specialized AI agents to handle the end-to-end process of financial report generation:
 
